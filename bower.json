@@ -1,0 +1,19 @@
+{
+  "name": "scss-package-test",
+  "homepage": "https://github.com/james226/scss-package-test",
+  "authors": [
+    "Esendex Developers <development@esendex.com>"
+  ],
+  "description": "",
+  "main": "config.rb",
+  "moduleType": [],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
